@@ -1,0 +1,7 @@
+1) Item 1, 2 e 3 estão centralizado.
+2) Não tem nada alinhado a esquerda.
+3) Ele coloca o primeiro elemento no começo e o último no fim, e distribui o espaço restante igualmente.
+4) Agora, coloca espaço nas pontas e mais espaço no meio.
+5) .all() define igualmente margens, .symmetric() define margem em pares (top e bottom ou lef e right) e .only() define margem individualmente.
+6) Pois nem todas as telas são do mesmo tamanho, então, tentamos deixar o mais otimizado possível para todos os tamanhos de tela.
+7) Podemos utilizar alguns métodos como pegar o tamanho da tela e aplicar alguma fórmula para calcular o tamanho ideal de cada widget.
